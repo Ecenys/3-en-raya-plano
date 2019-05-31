@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-// By Óscar Gómez "celestial97"
+// By Oscar Gomez "celestial97"
 
 int juego();
 void estadisticas();
